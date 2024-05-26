@@ -1,0 +1,5 @@
+{
+  "useGoogleSheets": true,
+  "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9z6fBNaLsJi9dDT85ODrnsPsuVYhsn4fAlpiCv4ZEzUTfIr-h60QczD3YucVCtHRVBqHD9YihKUBo/pub?gid=1933371228&single=true&output=csv",
+  "localJsonPath": "./assets/data/team.json"
+}

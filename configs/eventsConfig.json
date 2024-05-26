@@ -1,0 +1,11 @@
+{
+  "defaultLanguage": "en",
+  "useGoogleSheets": true,
+  "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9z6fBNaLsJi9dDT85ODrnsPsuVYhsn4fAlpiCv4ZEzUTfIr-h60QczD3YucVCtHRVBqHD9YihKUBo/pub?gid=286285351&single=true&output=csv",
+  "itemsPerPage": 12,
+  "localJsonPath": "./assets/data/events.json",
+  "type": "twitch",
+  "youtubeVideoId": "youtube_video_id",
+  "twitchChannel": "twitch_channel_name",
+  "parentDomain": "localhost"
+}
