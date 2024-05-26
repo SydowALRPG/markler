@@ -1,0 +1,15 @@
+[
+    {
+    "id": "1",
+    "title": "Hidden Graffiti Tour",
+    "description": "Embark on a guided exploration through the city's alleys and hidden streets to discover underground art and graffiti masterpieces. Participants use an app to check in at each piece and learn about the artists and stories behind the works. ",
+    "type": "\ud83c\udfd4 Exploration",
+    "status": "\ud83d\udfe2 Live",
+    "ticket": "1,000$",
+    "prize": "1,000,000$",
+    "location": "Los Santos, South",
+    "date": "3/2/2024",
+    "time": "20:00",
+    "image": "https://cdn.frvgs.com/events/hidden-graffiti.jpg"
+    }
+]
