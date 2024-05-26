@@ -1,7 +1,7 @@
 {
   "defaultLanguage": "en",
   "useGoogleSheets": true,
-  "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/15Y2eO57CGvMm3f5FON8J1VCzbNhIrXAG_F_yGn4vt4A/edit#gid=795906979",
+  "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKbjh3ddlGW7B_MP6G2DuCcxDZIDczITjnZmoA1Spqk-SJVdLVNliSMlfbbYtGAke5L6X44hx5vIF3/pub?gid=2128781426&single=true&output=csv",
   "itemsPerPage": 12,
   "localJsonPath": "./assets/data/events.json",
   "type": "twitch",
