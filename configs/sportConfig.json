@@ -1,7 +1,7 @@
 {
     "defaultLanguage": "en",
     "useGoogleSheets": true,
-    "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9z6fBNaLsJi9dDT85ODrnsPsuVYhsn4fAlpiCv4ZEzUTfIr-h60QczD3YucVCtHRVBqHD9YihKUBo/pub?gid=286285351&single=true&output=csv",
+    "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTRAjUYdJcOFV63adSEYrmAz8VMrwd0649Rv05BbdHxnrHXbplUP3D_Ph_JXfPLU-JiRht4vR7vdGvq/pub?gid=795906979&single=true&output=csv",
     "itemsPerPage": 12,
     "localJsonPath": "./assets/data/sport.json",
     "type": "twitch",
