@@ -33,14 +33,6 @@ const state={allItems:[],currentPage:1,itemsPerPage:12,selectedTypes:[],selected
           📍&nbsp; ${t("location")}
           </p>
         </div>
-        <div class="flex flex-wrap justify-between items-center pt-1 gap-3">
-          <p class="flex-grow text-sm border bg-accent/5 border-accent px-3 py-2 rounded-lg">
-          🎟&nbsp;${t("ticket")}
-          </p>
-          <p class="flex-grow text-sm border bg-accent/5 border-accent px-3 py-2 rounded-lg">
-          🏆&nbsp;${t("prize")}
-          </p>
-        </div>
       </div>
     </div>
   </div>
