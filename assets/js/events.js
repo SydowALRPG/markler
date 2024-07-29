@@ -14,7 +14,12 @@ const state={allItems:[],currentPage:1,itemsPerPage:12,selectedTypes:[],selected
               ${t("status")}
             </div>
           </div>
-          
+          <h3 class="font-black text-primary md:text-3xl text-xl mb-2">
+            ${t("title")}
+          </h3>
+          <p class="text-base">
+            ${t("description")}
+          </p>
         </div>
 
         <div class="flex flex-wrap justify-between items-center gap-3">
