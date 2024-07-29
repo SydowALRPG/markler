@@ -10,9 +10,7 @@ const state={allItems:[],currentPage:1,itemsPerPage:12,selectedTypes:[],selected
         <div class="pb-2">
           <div class="flex justify-between item-left">
             <p class="text-primary font-bold">${t("type")}</p>
-            <div class="bg-base-300 shadow-lg px-3 py-2 rounded-lg text-xs font-bold text-base-content">
-              ${t("status")}
-            </div>
+            
           </div>
           <h3 class="font-black text-primary md:text-3xl text-xl mb-2">
             ${t("title")}
