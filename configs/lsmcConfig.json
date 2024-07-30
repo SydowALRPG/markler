@@ -1,0 +1,11 @@
+{
+    "defaultLanguage": "en",
+    "useGoogleSheets": true,
+    "GoogleSheetsURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_UvXo-nw4z3WeFBNZFXSgo3pyB2CuEJFNfnzGutQH-oRdgwX1OHNbkoF3el5wI_v_aG3SLZZcPRoc/pub?gid=645749547&single=true&output=csv",
+    "itemsPerPage": 12,
+    "localJsonPath": "./assets/data/sport.json",
+    "type": "twitch",
+    "youtubeVideoId": "youtube_video_id",
+    "twitchChannel": "twitch_channel_name",
+    "parentDomain": "localhost"
+  }
